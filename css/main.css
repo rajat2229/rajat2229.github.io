@@ -210,10 +210,10 @@
 }
 
 #home{
-    height: 700px;
+    height: 750px;
     /* margin-top: 50px; */
     text-align: center;
-    padding-top: 200px;
+    padding-top: 220px;
 }
 
 #social_Links{
@@ -378,7 +378,7 @@ margin-bottom: 30px;
 }
 #contact{
     background-color: rgb(7, 81, 87);
-    padding-bottom: 200px;
+    padding-bottom: 70px;
     text-align: center;
 }
 #contact>h5:first-of-type{
@@ -435,6 +435,13 @@ section>.container{
 
 .object-cover{
     border-radius: 30px;
+    
+}
+#rajatphoto{
+    border-radius: 290px;
+    max-width: 90%;
+    height: auto;
+    padding: 30px;
 }
 
 #home>h1{
@@ -455,7 +462,7 @@ section>.container{
 
 
 .leading-relaxed{
-    font-size: 20px;
+    font-size: 19px;
     text-align: justify;
 }
 
